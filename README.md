@@ -15,7 +15,9 @@ To open a PR (pull request) for this repo:
 * git commit "any message"
 * git push origin your-banch-name
 * (switch to Github)
-* Go to Pull requests tab > new Pull request > create pull request
+* Go to the orignal repo (the one you forked)
+* Click on the green button (Compare and Pull request)
+* Click on Send Pull Request.
 
 You're done !
 
