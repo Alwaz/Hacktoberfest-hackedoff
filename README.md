@@ -6,7 +6,9 @@ To open a PR (pull request) for this repo:
 * Make a separate folder on your local computer.
 
 * Right click > Git bash here.
+
 * git clone "repolink.git" (your forked repo link)
+* switch to folder you just cloned type : cd Hacktoberfest-hackedoff
 
 * Now head over to your file > make required changes > save the file.
 (return to the git bash terminal)
