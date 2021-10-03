@@ -1,5 +1,7 @@
 # Hacktoberfest'21
 
+<img src="logo.png" align-items=center />
+
 To open a PR (pull request) for this repo:
 
 * Fork the repo.
