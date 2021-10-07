@@ -1,5 +1,7 @@
 # Hacktoberfest'21
 
+<img src="logo.png" align-items=center />
+
 To open a PR (pull request) for this repo:
 
 * Fork the repo.
@@ -14,7 +16,7 @@ To open a PR (pull request) for this repo:
 (return to the git bash terminal)
 * Create a branch 'git checkout -b 'your-banch-name'.
 * git add .
-* git commit "any message"
+* git commit -m "any message"
 * git push origin your-banch-name
 * (switch to Github)
 * Go to the orignal repo (the one you forked)
