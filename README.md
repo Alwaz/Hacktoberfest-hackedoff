@@ -2,8 +2,8 @@
 
 <img src="logo.png" align-items=center />
 
-To open a PR (pull request) for this repo:
-
+# Contributing Guide
+* ⭐ this Repo
 * Fork the repo.
 * Make a separate folder on your local computer.
 
@@ -25,8 +25,8 @@ To open a PR (pull request) for this repo:
 
 You're done !
 
-Don't forget to star this repo. 
+### Don't forget to ⭐ this repo. 
 
 Note: Have patience till your PR gets reviewed and accepted/merged.
 
-## Happy Hacking :)
+## Happy Contributing 😃
