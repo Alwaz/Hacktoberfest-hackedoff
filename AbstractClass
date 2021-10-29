@@ -1,0 +1,21 @@
+
+package abstractclasspractice;
+
+abstract class animal{
+    public void prices(){
+        System.out.println("These vary time to time.");
+        }
+    public abstract void type();
+}
+class use extends animal{
+    public void type(){
+        System.out.println("This species is unique.");
+    }
+}
+public class AbstractClassPractice {
+    public static void main(String[] args) {
+        use obj = new use();
+        obj.prices();
+        obj.type();
+    }
+}
